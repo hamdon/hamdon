@@ -16,7 +16,7 @@ usage:
 ```php
 $date = date("Y-m",time());
 $dateRange = new \Hamdon\DateRange();
-$dateRange->inputDate = $date
+$dateRange->inputDate = $date;
 //start timestamp 开始时间戳
 $startTimestamp = $dateRange->startTime();
 //end timestamp 结束时间戳
