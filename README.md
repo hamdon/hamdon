@@ -1,6 +1,7 @@
 
 someUtilityPHPClass
 
+[![Gitter](https://badges.gitter.im/hamdon/hamdon.svg)](https://gitter.im/hamdon/hamdon?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 ##DateRange.php
 
