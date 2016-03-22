@@ -4,6 +4,8 @@ someUtilityPHPClass
 
 ##DateRange.php
 
+[![Join the chat at https://gitter.im/hamdon/hamdon](https://badges.gitter.im/hamdon/hamdon.svg)](https://gitter.im/hamdon/hamdon?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 input one date and then can ouput the timestamp range and date array include year、month、day
 
 input e.g.:
